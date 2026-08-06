@@ -161,20 +161,6 @@ This repository serves as a foundation for learning:
 
 ---
 
-## 📈 Future Learning Roadmap
-
-The next technologies in my AI learning journey are:
-
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Machine Learning
-- Deep Learning
-- AI Projects
-
----
-
 ⭐ If you find this repository useful, feel free to star it and explore the code.
 
 Happy Coding! 🚀
